@@ -1,2 +1,2 @@
 # uSAI
-undersatanding sai
+understanding sai
